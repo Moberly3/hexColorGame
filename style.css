@@ -1,0 +1,13 @@
+#container{
+    margin: 2 white;
+    padding-bottom: 50px blue;
+    text-align: center;
+    background-color: brown;
+}
+#clockContainer{
+    text-align: center;
+}
+#clock{
+    font-size: 75px;
+    color: white;
+}
